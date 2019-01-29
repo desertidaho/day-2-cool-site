@@ -45,7 +45,7 @@ article h1 {
 article p {
   text-align: left;
   margin-top: -3px;
-  margin-right: 290px;
+  margin-right: 300px;
   margin-left: 210px;
   font-size: 1rem;
   font-weight: 400;
@@ -95,7 +95,8 @@ article span {
 
 .side-content h3 {
   margin-top: -28px;
-  font-weight: 300;
+  font-weight: 400;
+  margin-left: 4px;
 }
 
 .side-content p {
@@ -110,5 +111,5 @@ article span {
   color: #1c4587;
   height: 130px;
   border: 2px solid black;
-  margin-top: 165px;
+  margin-top: 195px;
 }
