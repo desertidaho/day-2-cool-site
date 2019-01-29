@@ -82,9 +82,10 @@ article span {
 }
 
 #box-text {
+  font-size: 1.2em;
   padding-top: 40px;
   margin-top: 50px;
-  margin-left: 40px;
+  margin-left: 37px;
   margin-right: 10px;
   color: white;
 }
@@ -112,5 +113,5 @@ article span {
   color: #1c4587;
   height: 120px;
   border: 2px solid black;
-  margin-top: 207px;
+  margin-top: 204px;
 }
